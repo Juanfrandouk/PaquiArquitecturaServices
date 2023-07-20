@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oo5/P4xUAASh6Q5Pzd6cwbR+XZClcShMYsFMW8Nw4lPaZ8AkHSCJIkFa2vQBMQVb1skMgQq16+WxCx5FAo2pAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Transversal.Mapper\\Paquigroup.Ecommerce.Transversal.Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jdiaz\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\jdiaz\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\net6.0\Paquigroup.Ecommerce.Domain.Entity.deps.json
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\net6.0\Paquigroup.Ecommerce.Domain.Entity.dll
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\net6.0\Paquigroup.Ecommerce.Domain.Entity.pdb
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Paquigroup.Ecommerce.Domain.Entity.csproj.AssemblyReference.cache
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Paquigroup.Ecommerce.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Paquigroup.Ecommerce.Domain.Entity.AssemblyInfoInputs.cache
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Paquigroup.Ecommerce.Domain.Entity.AssemblyInfo.cs
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Paquigroup.Ecommerce.Domain.Entity.csproj.CoreCompileInputs.cache
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Paquigroup.Ecommerce.Domain.Entity.dll
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\refint\Paquigroup.Ecommerce.Domain.Entity.dll
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\Paquigroup.Ecommerce.Domain.Entity.pdb
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\net6.0\ref\Paquigroup.Ecommerce.Domain.Entity.dll

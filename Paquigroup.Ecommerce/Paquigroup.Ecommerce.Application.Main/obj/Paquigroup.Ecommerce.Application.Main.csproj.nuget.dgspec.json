@@ -1,0 +1,401 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Application.Main\\Paquigroup.Ecommerce.Application.Main.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Paquigroup.Ecommerce.Domain.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Paquigroup.Ecommerce.Domain.Entity.csproj",
+        "projectName": "Paquigroup.Ecommerce.Domain.Entity",
+        "projectPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Paquigroup.Ecommerce.Domain.Entity.csproj",
+        "packagesPath": "C:\\Users\\jdiaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jdiaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Application.DTO\\Paquigroup.Ecommerce.Application.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Application.DTO\\Paquigroup.Ecommerce.Application.DTO.csproj",
+        "projectName": "Paquigroup.Ecommerce.Application.DTO",
+        "projectPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Application.DTO\\Paquigroup.Ecommerce.Application.DTO.csproj",
+        "packagesPath": "C:\\Users\\jdiaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Application.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jdiaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Application.Interface\\Paquigroup.Ecommerce.Application.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Application.Interface\\Paquigroup.Ecommerce.Application.Interface.csproj",
+        "projectName": "Paquigroup.Ecommerce.Application.Interface",
+        "projectPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Application.Interface\\Paquigroup.Ecommerce.Application.Interface.csproj",
+        "packagesPath": "C:\\Users\\jdiaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Application.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jdiaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Application.DTO\\Paquigroup.Ecommerce.Application.DTO.csproj": {
+                "projectPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Application.DTO\\Paquigroup.Ecommerce.Application.DTO.csproj"
+              },
+              "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Transversal.Common\\Paquigroup.Ecommerce.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Transversal.Common\\Paquigroup.Ecommerce.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Application.Main\\Paquigroup.Ecommerce.Application.Main.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Application.Main\\Paquigroup.Ecommerce.Application.Main.csproj",
+        "projectName": "Paquigroup.Ecommerce.Application.Main",
+        "projectPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Application.Main\\Paquigroup.Ecommerce.Application.Main.csproj",
+        "packagesPath": "C:\\Users\\jdiaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Application.Main\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jdiaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Paquigroup.Ecommerce.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Paquigroup.Ecommerce.Domain.Entity.csproj"
+              },
+              "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Application.DTO\\Paquigroup.Ecommerce.Application.DTO.csproj": {
+                "projectPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Application.DTO\\Paquigroup.Ecommerce.Application.DTO.csproj"
+              },
+              "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Application.Interface\\Paquigroup.Ecommerce.Application.Interface.csproj": {
+                "projectPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Application.Interface\\Paquigroup.Ecommerce.Application.Interface.csproj"
+              },
+              "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Domain.Interface\\Paquigroup.Ecommerce.Domain.Interface.csproj": {
+                "projectPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Domain.Interface\\Paquigroup.Ecommerce.Domain.Interface.csproj"
+              },
+              "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Transversal.Common\\Paquigroup.Ecommerce.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Transversal.Common\\Paquigroup.Ecommerce.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Domain.Interface\\Paquigroup.Ecommerce.Domain.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Domain.Interface\\Paquigroup.Ecommerce.Domain.Interface.csproj",
+        "projectName": "Paquigroup.Ecommerce.Domain.Interface",
+        "projectPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Domain.Interface\\Paquigroup.Ecommerce.Domain.Interface.csproj",
+        "packagesPath": "C:\\Users\\jdiaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Domain.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jdiaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Paquigroup.Ecommerce.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Paquigroup.Ecommerce.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Transversal.Common\\Paquigroup.Ecommerce.Transversal.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Transversal.Common\\Paquigroup.Ecommerce.Transversal.Common.csproj",
+        "projectName": "Paquigroup.Ecommerce.Transversal.Common",
+        "projectPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Transversal.Common\\Paquigroup.Ecommerce.Transversal.Common.csproj",
+        "packagesPath": "C:\\Users\\jdiaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Transversal.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jdiaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
