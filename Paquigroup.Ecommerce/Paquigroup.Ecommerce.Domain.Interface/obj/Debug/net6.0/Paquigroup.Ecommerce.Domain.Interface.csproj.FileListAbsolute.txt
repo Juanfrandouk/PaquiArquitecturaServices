@@ -1,0 +1,15 @@
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Domain.Interface\bin\Debug\net6.0\Paquigroup.Ecommerce.Domain.Interface.deps.json
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Domain.Interface\bin\Debug\net6.0\Paquigroup.Ecommerce.Domain.Interface.dll
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Domain.Interface\bin\Debug\net6.0\Paquigroup.Ecommerce.Domain.Interface.pdb
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Domain.Interface\bin\Debug\net6.0\Paquigroup.Ecommerce.Domain.Entity.dll
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Domain.Interface\bin\Debug\net6.0\Paquigroup.Ecommerce.Domain.Entity.pdb
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Domain.Interface\obj\Debug\net6.0\Paquigroup.Ecommerce.Domain.Interface.csproj.AssemblyReference.cache
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Domain.Interface\obj\Debug\net6.0\Paquigroup.Ecommerce.Domain.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Domain.Interface\obj\Debug\net6.0\Paquigroup.Ecommerce.Domain.Interface.AssemblyInfoInputs.cache
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Domain.Interface\obj\Debug\net6.0\Paquigroup.Ecommerce.Domain.Interface.AssemblyInfo.cs
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Domain.Interface\obj\Debug\net6.0\Paquigroup.Ecommerce.Domain.Interface.csproj.CoreCompileInputs.cache
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Domain.Interface\obj\Debug\net6.0\Paquigroup.Ecommerce.Domain.Interface.csproj.CopyComplete
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Domain.Interface\obj\Debug\net6.0\Paquigroup.Ecommerce.Domain.Interface.dll
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Domain.Interface\obj\Debug\net6.0\refint\Paquigroup.Ecommerce.Domain.Interface.dll
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Domain.Interface\obj\Debug\net6.0\Paquigroup.Ecommerce.Domain.Interface.pdb
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Domain.Interface\obj\Debug\net6.0\ref\Paquigroup.Ecommerce.Domain.Interface.dll

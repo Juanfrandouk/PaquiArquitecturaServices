@@ -60,7 +60,7 @@ namespace Paquigroup.Ecommerce.Application.Main
             return response;
         }
 
-        Response<bool> Delete(string customerId)
+        public Response<bool> Delete(string customerId)
         {
             var response = new Response<bool>();
             try
@@ -80,22 +80,158 @@ namespace Paquigroup.Ecommerce.Application.Main
             return response;
         }
 
-        Response<CustomersDto> Get(string customerId);
+        public Response<CustomersDto> Get(string customerId)
+        {
+            var response = new Response<CustomersDto>();
+            try
+            {
+                var cuestomer = _customersDomain.Get(customerId);
+                response.Data = _mapper.Map<CustomersDto>(cuestomer);
+                if (response.Data != null)
+                {
+                    response.IsSuccess = true;
+                    response.Message = "Borrado  Exitoso";
+                }
+            }
+            catch (Exception e)
+            {
 
-        IEnumerable<CustomersDto> GetAll();
+                response.Message = e.Message;
+            }
+            return response;
+        }
+
+
+        public Response<IEnumerable<CustomersDto>> GetAll()
+        {
+            var response = new Response<IEnumerable<CustomersDto>>();
+            try
+            {
+                var customers = _customersDomain.GetAll();
+                response.Data = _mapper.Map<IEnumerable<CustomersDto>>(customers);
+                if (response.Data != null)
+                {
+                    response.IsSuccess = true;
+                    response.Message = "Borrado  Exitoso";
+                }
+            }
+            catch (Exception e)
+            {
+
+                response.Message = e.Message;
+            }
+            return response;
+
+        }
         #endregion
 
         #region Métodos Asincronos
 
-        Task<Response<bool>> InsertAsync(CustomersDto customers);
+        public async Task<Response<bool>> InsertAsync(CustomersDto customersDto)
+        {
+            var response = new Response<bool>();
+            try
+            {
+                var customer = _mapper.Map<Customers>(customersDto);
+                response.Data = await _customersDomain.InsertAsync(customer);
+                if (response.Data == true)
+                {
+                    response.IsSuccess = true;
+                    response.Message = "Registro Exitoso";
+                }
+            }
+            catch (Exception e)
+            {
 
-        Task<Response<bool>> UpdateAsync(CustomersDto customers);
+                response.Message = e.Message;
+            }
+            return response;
+        }
 
-        Task<Response<bool>> DeleteAsync(string customerId);
+        public async Task<Response<bool>> UpdateAsync(CustomersDto customersDto)
+        {
+            var response = new Response<bool>();
+            try
+            {
+                var customer = _mapper.Map<Customers>(customersDto);
+                response.Data = await _customersDomain.UpdateAsync(customer);
+                if (response.Data)
+                {
+                    response.IsSuccess = true;
+                    response.Message = "Actualizacion  Exitosa";
+                }
+            }
+            catch (Exception e)
+            {
 
-        Task<Response<CustomersDto>> GetAsync(string customerId);
+                response.Message = e.Message;
+            }
+            return response;
+        }
 
-        Task<Response<IEnumerable<CustomersDto>>> GetAllAsync();
+        public async Task<Response<bool>> DeleteAsync(string customerId)
+        {
+            var response = new Response<bool>();
+            try
+            {
+                response.Data = await _customersDomain.DeleteAsync(customerId);
+                if (response.Data)
+                {
+                    response.IsSuccess = true;
+                    response.Message = "Borrado  Exitoso";
+                }
+            }
+            catch (Exception e)
+            {
+
+                response.Message = e.Message;
+            }
+            return response;
+        }
+
+        public async Task<Response<CustomersDto>> GetAsync(string customerId)
+        {
+            var response = new Response<CustomersDto>();
+            try
+            {
+                var cuestomer = await _customersDomain.GetAsync(customerId);
+                response.Data = _mapper.Map<CustomersDto>(cuestomer);
+                if (response.Data != null)
+                {
+                    response.IsSuccess = true;
+                    response.Message = "Borrado  Exitoso";
+                }
+            }
+            catch (Exception e)
+            {
+
+                response.Message = e.Message;
+            }
+            return response;
+        }
+
+        public async Task<Response<IEnumerable<CustomersDto>>> GetAllAsync()
+        {
+            var response = new Response<IEnumerable<CustomersDto>>();
+            try
+            {
+                var cuestomers = await _customersDomain.GetAllAsync();
+                response.Data = _mapper.Map<IEnumerable<CustomersDto>>(cuestomers);
+                if (response.Data != null)
+                {
+                    response.IsSuccess = true;
+                    response.Message = "Borrado  Exitoso";
+                }
+            }
+            catch (Exception e)
+            {
+
+                response.Message = e.Message;
+            }
+            return response;
+        }
+
+
         #endregion
 
 

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Paquigroup.Ecommerce.Domain.Interface/1.0.0": {
+        "dependencies": {
+          "Paquigroup.Ecommerce.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Paquigroup.Ecommerce.Domain.Interface.dll": {}
+        }
+      },
+      "Paquigroup.Ecommerce.Domain.Entity/1.0.0": {
+        "runtime": {
+          "Paquigroup.Ecommerce.Domain.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Paquigroup.Ecommerce.Domain.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Paquigroup.Ecommerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

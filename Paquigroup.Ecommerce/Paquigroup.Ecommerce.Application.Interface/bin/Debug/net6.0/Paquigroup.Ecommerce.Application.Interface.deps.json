@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Paquigroup.Ecommerce.Application.Interface/1.0.0": {
+        "dependencies": {
+          "Paquigroup.Ecommerce.Application.DTO": "1.0.0",
+          "Paquigroup.Ecommerce.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "Paquigroup.Ecommerce.Application.Interface.dll": {}
+        }
+      },
+      "Paquigroup.Ecommerce.Application.DTO/1.0.0": {
+        "runtime": {
+          "Paquigroup.Ecommerce.Application.DTO.dll": {}
+        }
+      },
+      "Paquigroup.Ecommerce.Transversal.Common/1.0.0": {
+        "runtime": {
+          "Paquigroup.Ecommerce.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Paquigroup.Ecommerce.Application.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Paquigroup.Ecommerce.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Paquigroup.Ecommerce.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

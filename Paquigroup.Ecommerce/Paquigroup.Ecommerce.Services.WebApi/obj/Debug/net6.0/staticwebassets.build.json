@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cjXmCFxHJh5GpQ5fMgl7HbuCaWuYe8J1LFj0Ik/+taA=",
+  "Source": "Paquigroup.Ecommerce.Services.WebApi",
+  "BasePath": "_content/Paquigroup.Ecommerce.Services.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

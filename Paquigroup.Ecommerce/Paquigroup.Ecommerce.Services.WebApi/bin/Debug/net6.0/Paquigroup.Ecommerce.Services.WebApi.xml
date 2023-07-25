@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Paquigroup.Ecommerce.Services.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Paquigroup.Ecommerce.Services.WebApi.Controllers.CustomersController.Get(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="customerId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Paquigroup.Ecommerce.Services.WebApi.Controllers.CustomersController.Insert(Paquigroup.Ecommerce.Application.DTO.CustomersDto)">
+            <summary>
+            Crea un registro para cliente
+            </summary>
+            <param name="customerDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Paquigroup.Ecommerce.Services.WebApi.Controllers.CustomersController.Update(Paquigroup.Ecommerce.Application.DTO.CustomersDto)">
+            <summary>
+            Actualiza un registro de cliente
+            </summary>
+            <param name="customerDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Paquigroup.Ecommerce.Services.WebApi.Controllers.CustomersController.Delete(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="customerId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Paquigroup.Ecommerce.Services.WebApi.Controllers.CustomersController.GetAll">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Paquigroup.Ecommerce.Services.WebApi.Controllers.CustomersController.InserAsync(Paquigroup.Ecommerce.Application.DTO.CustomersDto)">
+            <summary>
+            Crea un registro para cliente
+            </summary>
+            <param name="customerDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Paquigroup.Ecommerce.Services.WebApi.Controllers.CustomersController.UpdateAsync(Paquigroup.Ecommerce.Application.DTO.CustomersDto)">
+            <summary>
+            Actualiza un registro de cliente
+            </summary>
+            <param name="customerDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Paquigroup.Ecommerce.Services.WebApi.Controllers.CustomersController.DeleteAsync(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Paquigroup.Ecommerce.Services.WebApi.Controllers.CustomersController.GetAsync(System.String)">
+            <summary>
+            Devuelveel registro de un clientes y la operacion la ejecuta de forma asincrona
+            </summary>
+            <param name="customerId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Paquigroup.Ecommerce.Services.WebApi.Controllers.CustomersController.GetAllAsync">
+            <summary>
+            Devuelve un listado de todos los clientes y la operacion la ejecuta de forma asincrona
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

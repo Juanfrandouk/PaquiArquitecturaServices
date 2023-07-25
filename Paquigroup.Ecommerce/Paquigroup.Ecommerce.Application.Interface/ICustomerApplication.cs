@@ -14,7 +14,7 @@ namespace Paquigroup.Ecommerce.Application.Interface
 
         Response<CustomersDto> Get(string customerId);
 
-        IEnumerable<CustomersDto> GetAll();
+        Response<IEnumerable<CustomersDto>> GetAll();
         #endregion
 
         #region Métodos Asincronos
