@@ -12,7 +12,14 @@ C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce
 C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
 C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
 C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -20,6 +27,7 @@ C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce
 C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\Swashbuckle.Core.dll
 C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\System.IO.Packaging.dll
 C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
 C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
@@ -70,3 +78,5 @@ C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce
 C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\obj\Debug\net6.0\Paquigroup.Ecommerce.Services.WebApi.pdb
 C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\obj\Debug\net6.0\Paquigroup.Ecommerce.Services.WebApi.genruntimeconfig.cache
 C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\obj\Debug\net6.0\ref\Paquigroup.Ecommerce.Services.WebApi.dll
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\Paquigroup.Ecommerce.Transversal.Logging.dll
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\Paquigroup.Ecommerce.Transversal.Logging.pdb

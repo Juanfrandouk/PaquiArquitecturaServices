@@ -37,6 +37,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paquigroup.Ecommerce.Applic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paquigroup.Ecommerce.Services.WebApi", "Paquigroup.Ecommerce.Services.WebApi\Paquigroup.Ecommerce.Services.WebApi.csproj", "{3683A47F-BA3E-4EFD-B507-7AC46FFE8F22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paquigroup.Ecommerce.Transversal.Logging", "Paquigroup.Ecommerce.Transversal.Logging\Paquigroup.Ecommerce.Transversal.Logging.csproj", "{EC931A58-8332-45E7-9BE6-CFA08BBE9150}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,10 @@ Global
 		{3683A47F-BA3E-4EFD-B507-7AC46FFE8F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3683A47F-BA3E-4EFD-B507-7AC46FFE8F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3683A47F-BA3E-4EFD-B507-7AC46FFE8F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC931A58-8332-45E7-9BE6-CFA08BBE9150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC931A58-8332-45E7-9BE6-CFA08BBE9150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC931A58-8332-45E7-9BE6-CFA08BBE9150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC931A58-8332-45E7-9BE6-CFA08BBE9150}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -108,6 +114,7 @@ Global
 		{FBB48A69-3818-4A9A-BF88-331975195E14} = {4AFF2F6F-2710-49DD-845D-B2D293CFF12C}
 		{57244FF2-B089-43DB-966D-E7CBD4DDE258} = {4AFF2F6F-2710-49DD-845D-B2D293CFF12C}
 		{3683A47F-BA3E-4EFD-B507-7AC46FFE8F22} = {859D4176-383E-44D5-A337-87F1E58083FC}
+		{EC931A58-8332-45E7-9BE6-CFA08BBE9150} = {E5122E2F-8A99-4423-B1CD-847A02179319}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2B949BF2-23F4-4472-A288-8288BEED46BB}

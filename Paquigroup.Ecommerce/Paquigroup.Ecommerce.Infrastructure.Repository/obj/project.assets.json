@@ -238,6 +238,19 @@
           "bin/placeholder/Paquigroup.Ecommerce.Domain.Entity.dll": {}
         }
       },
+      "Paquigroup.Ecommerce.Domain.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Paquigroup.Ecommerce.Domain.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Paquigroup.Ecommerce.Domain.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Paquigroup.Ecommerce.Domain.Interface.dll": {}
+        }
+      },
       "Paquigroup.Ecommerce.Infrastructura.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -703,6 +716,11 @@
       "path": "../Pacagroup.Ecommerce.Domain.Entity/Paquigroup.Ecommerce.Domain.Entity.csproj",
       "msbuildProject": "../Pacagroup.Ecommerce.Domain.Entity/Paquigroup.Ecommerce.Domain.Entity.csproj"
     },
+    "Paquigroup.Ecommerce.Domain.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Paquigroup.Ecommerce.Domain.Interface/Paquigroup.Ecommerce.Domain.Interface.csproj",
+      "msbuildProject": "../Paquigroup.Ecommerce.Domain.Interface/Paquigroup.Ecommerce.Domain.Interface.csproj"
+    },
     "Paquigroup.Ecommerce.Infrastructura.Data/1.0.0": {
       "type": "project",
       "path": "../Paquigroup.Ecommerce.Insfrastructura.Data/Paquigroup.Ecommerce.Infrastructura.Data.csproj",
@@ -722,6 +740,8 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Dapper >= 2.0.143",
+      "Paquigroup.Ecommerce.Domain.Entity >= 1.0.0",
+      "Paquigroup.Ecommerce.Domain.Interface >= 1.0.0",
       "Paquigroup.Ecommerce.Infrastructura.Data >= 1.0.0",
       "Paquigroup.Ecommerce.Infrastructura.Interface >= 1.0.0",
       "Paquigroup.Ecommerce.Transversal.Common >= 1.0.0"
@@ -760,6 +780,12 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Paquigroup.Ecommerce.Domain.Entity.csproj": {
+              "projectPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Paquigroup.Ecommerce.Domain.Entity.csproj"
+            },
+            "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Domain.Interface\\Paquigroup.Ecommerce.Domain.Interface.csproj": {
+              "projectPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Domain.Interface\\Paquigroup.Ecommerce.Domain.Interface.csproj"
+            },
             "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Infrastructura.Interface\\Paquigroup.Ecommerce.Infrastructura.Interface.csproj": {
               "projectPath": "C:\\Users\\jdiaz\\Documents\\DevelopmentProjects\\Microservicios\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce\\Paquigroup.Ecommerce.Infrastructura.Interface\\Paquigroup.Ecommerce.Infrastructura.Interface.csproj"
             },

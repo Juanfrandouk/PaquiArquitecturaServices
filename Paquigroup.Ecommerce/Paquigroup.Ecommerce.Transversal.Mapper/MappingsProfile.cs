@@ -10,6 +10,7 @@ namespace Paquigroup.Ecommerce.Transversal.Mapper
         public MappingsProfile()
         {
             CreateMap<Customers, CustomersDto>().ReverseMap();
+            CreateMap<Users, UserDto>().ReverseMap();
             //CreateMap<Customers, CustomersDto>().ReverseMap()
             //    .ForMember(destination => destination.CustomerId, source => source.MapFrom(src => src.CustomerId))
             //    .ForMember(destination => destination.CompanyName, source => source.MapFrom(src => src.CompanyName))

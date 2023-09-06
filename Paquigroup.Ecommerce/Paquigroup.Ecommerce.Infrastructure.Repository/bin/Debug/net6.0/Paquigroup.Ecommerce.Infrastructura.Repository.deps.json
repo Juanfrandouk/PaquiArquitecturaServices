@@ -9,6 +9,8 @@
       "Paquigroup.Ecommerce.Infrastructura.Repository/1.0.0": {
         "dependencies": {
           "Dapper": "2.0.143",
+          "Paquigroup.Ecommerce.Domain.Entity": "1.0.0",
+          "Paquigroup.Ecommerce.Domain.Interface": "1.0.0",
           "Paquigroup.Ecommerce.Infrastructura.Data": "1.0.0",
           "Paquigroup.Ecommerce.Infrastructura.Interface": "1.0.0",
           "Paquigroup.Ecommerce.Transversal.Common": "1.0.0"
@@ -138,6 +140,14 @@
       "Paquigroup.Ecommerce.Domain.Entity/1.0.0": {
         "runtime": {
           "Paquigroup.Ecommerce.Domain.Entity.dll": {}
+        }
+      },
+      "Paquigroup.Ecommerce.Domain.Interface/1.0.0": {
+        "dependencies": {
+          "Paquigroup.Ecommerce.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Paquigroup.Ecommerce.Domain.Interface.dll": {}
         }
       },
       "Paquigroup.Ecommerce.Infrastructura.Data/1.0.0": {
@@ -270,6 +280,11 @@
       "hashPath": "system.security.principal.windows.4.7.0.nupkg.sha512"
     },
     "Paquigroup.Ecommerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Paquigroup.Ecommerce.Domain.Interface/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

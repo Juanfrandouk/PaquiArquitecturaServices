@@ -21,3 +21,5 @@ C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce
 C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Application.Main\obj\Debug\net6.0\refint\Paquigroup.Ecommerce.Application.Main.dll
 C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Application.Main\obj\Debug\net6.0\Paquigroup.Ecommerce.Application.Main.pdb
 C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Application.Main\obj\Debug\net6.0\ref\Paquigroup.Ecommerce.Application.Main.dll
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Application.Main\bin\Debug\net6.0\Paquigroup.Ecommerce.Transversal.Logging.dll
+C:\Users\jdiaz\Documents\DevelopmentProjects\Microservicios\Paquigroup.Ecommerce\Paquigroup.Ecommerce\Paquigroup.Ecommerce.Application.Main\bin\Debug\net6.0\Paquigroup.Ecommerce.Transversal.Logging.pdb

@@ -16,6 +16,7 @@
     <ProjectReference Include="..\Paquigroup.Ecommerce.Application.Interface\Paquigroup.Ecommerce.Application.Interface.csproj" />
     <ProjectReference Include="..\Paquigroup.Ecommerce.Domain.Interface\Paquigroup.Ecommerce.Domain.Interface.csproj" />
     <ProjectReference Include="..\Paquigroup.Ecommerce.Transversal.Common\Paquigroup.Ecommerce.Transversal.Common.csproj" />
+    <ProjectReference Include="..\Paquigroup.Ecommerce.Transversal.Logging\Paquigroup.Ecommerce.Transversal.Logging.csproj" />
   </ItemGroup>
 
 </Project>

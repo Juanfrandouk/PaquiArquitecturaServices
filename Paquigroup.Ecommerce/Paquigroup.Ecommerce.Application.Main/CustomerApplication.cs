@@ -11,11 +11,13 @@ namespace Paquigroup.Ecommerce.Application.Main
     {
         private readonly ICustomersDomain _customersDomain;
         private readonly IMapper _mapper;
-
-        public CustomerApplication(ICustomersDomain customersDomain, IMapper mapper)
+        private readonly IAppLogger<CustomerApplication> _appLogger;
+        public CustomerApplication(ICustomersDomain customersDomain, IMapper mapper,
+             IAppLogger<CustomerApplication> appLogger)
         {
             _customersDomain = customersDomain;
             _mapper = mapper;
+            _appLogger = appLogger;
         }
         #region Métodos Sincronos
         public Response<bool> Insert(CustomersDto customersDto)
@@ -112,13 +114,15 @@ namespace Paquigroup.Ecommerce.Application.Main
                 if (response.Data != null)
                 {
                     response.IsSuccess = true;
-                    response.Message = "Borrado  Exitoso";
+                    response.Message = "Consulta  Exitosa";
+                    _appLogger.LogInformation("Consulta  Exitosa");
                 }
             }
             catch (Exception e)
             {
 
                 response.Message = e.Message;
+                _appLogger.LogError(e.Message);
             }
             return response;
 
